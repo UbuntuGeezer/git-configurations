@@ -9,3 +9,5 @@ alias gx='gitx --all'
 
 alias got='git '
 alias get='git '
+alias togit='cd Documents/GitHub'
+
