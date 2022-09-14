@@ -1,0 +1,9 @@
+# CBremotes - Chromebook GitHub remote definitions.
+#	9/14/22.	wmk.
+#
+# Modification History.
+# ---------------------
+# 9/14/22.    wmk.   original definitions.
+
+git remote -v   # list remote definitions.
+git remote add --help
